@@ -1,4 +1,4 @@
-<img width="592" height="160" alt="Screenshot 2568-11-06 at 10 49 12 AM" src="https://github.com/user-attachments/assets/31d08824-4feb-4b47-b4a2-0ada0ef26309" />
+<p><img width="592" align='center' height="160" alt="Screenshot 2568-11-06 at 10 49 12 AM" src="https://github.com/user-attachments/assets/31d08824-4feb-4b47-b4a2-0ada0ef26309" /></p>
 <h1 align="center">Hi 👋, I'm Chitnusapong Raethong</h1>
 <h3 align="center">A computer engineering student from KOSEN KMITL</h3>
 
@@ -25,7 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxsemxrriee&show_icons=true&locale=en" alt="rxsemxrriee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxsemxrriee&" alt="rxsemxrriee" /></p>
 
 <!---
 rxsemxrriee/rxsemxrriee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

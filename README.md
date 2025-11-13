@@ -4,6 +4,10 @@
 
 
 <img width="1178" height="547" alt="image" src="https://github.com/user-attachments/assets/73a390ed-7725-4ab8-a5ea-3549426ed408" />
+<a href="https://www.instagram.com/suchawindyday/"><img width="274" height="115" alt="image" src="https://github.com/user-attachments/assets/552c2398-7b15-43a1-92ee-ca5b01bc8546" /></a>
+<a href="https://www.linkedin.com/in/chitsanupong-raethong-66b10b354/"><img width="255" height="149" alt="image" src="https://github.com/user-attachments/assets/2ffdb5e1-989b-49a6-9658-804d6e161c4a" />
+</a>
+<img width="931" height="285" alt="image" src="https://github.com/user-attachments/assets/c90bbf9a-ab21-410f-ba1b-1a624189bead" />
 
 
 

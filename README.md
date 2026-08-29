@@ -1,19 +1,110 @@
-<p><img align="left" width="1046" height="171" alt="image" src="https://github.com/user-attachments/assets/b5876742-5da6-460d-a82b-1b780cec7300" /></p>
-<p><a href='http://www.kosen.kmitl.ac.th/en'><img align="right" width="1023" height="152" alt="image" src="https://github.com/user-attachments/assets/b684c696-fda4-4790-9c1c-49386e486745" />
-</a></p>
 
 
-<img width="1178" height="547" alt="image" src="https://github.com/user-attachments/assets/73a390ed-7725-4ab8-a5ea-3549426ed408" />
-<a href="https://www.instagram.com/suchawindyday/"><img width="274" height="115" alt="image" src="https://github.com/user-attachments/assets/552c2398-7b15-43a1-92ee-ca5b01bc8546" /></a>
-<a href="https://www.linkedin.com/in/chitsanupong-raethong-66b10b354/"><img width="255" height="149" alt="image" src="https://github.com/user-attachments/assets/2ffdb5e1-989b-49a6-9658-804d6e161c4a" />
+<div align="center">
+
+
+<a href="https://github.com/rxsemxrriee">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=26D0CE&center=true&vCenter=true&width=520&lines=Computer+engineering+undergrad;Cloud+Engineer;Cyber+security;I+make+cloud+do+stuffs" alt="Typing SVG" />
 </a>
-<img width="931" height="285" alt="image" src="https://github.com/user-attachments/assets/c90bbf9a-ab21-410f-ba1b-1a624189bead" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/chitsanupong-raethong-66b10b354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:67991009@kmitl.ac.th"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 🧠 About
+
+```c
+struct Engineer {
+    char  name[]        = "Chitsanupong Raethong";
+    char  role[]        = "Computer Engineering, KOSEN-KMITL";
+    char  focus[]       = "Cloud engineering,Network engineering";
+    char  languages[]   = "C++, Python";
+    char  currently[]   = "Building the infrastructure for the future";
+    char  goal[]        = "Masters in Cloud engineering and cybersecurity";
+};
+```
+
+- 🔭 Currently building **nothing really**
+- 🌱 Learning **Cloud Engineering** 
+- ⚡ Fun fact: **I love music :)** 
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+**Embedded & Robotics**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+
+**Tools & Libraries**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+<h>N/A publicly</h>
+
+</div>
+
+
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rxsemxrriee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxsemxrriee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rxsemxrriee&theme=tokyonight&hide_border=true" />
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=rxsemxrriee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+---
 
 
 
 
+<div align="center">
 
-<!---
-rxsemxrriee/rxsemxrriee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"Any sufficiently advanced bug is indistinguishable from a feature."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%" />
+
+</div>
